@@ -1,0 +1,2 @@
+# hexlookup
+hex code --> colour.
